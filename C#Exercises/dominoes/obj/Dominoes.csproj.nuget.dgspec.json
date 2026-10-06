@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/Dominoes.csproj": {}
+  },
+  "projects": {
+    "/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/Dominoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/Dominoes.csproj",
+        "projectName": "Dominoes",
+        "projectPath": "/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/Dominoes.csproj",
+        "packagesPath": "/Users/harol/.nuget/packages/",
+        "outputPath": "/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/harol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "framework": "netcoreapp2.0",
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "framework": "netcoreapp2.0",
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.7.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

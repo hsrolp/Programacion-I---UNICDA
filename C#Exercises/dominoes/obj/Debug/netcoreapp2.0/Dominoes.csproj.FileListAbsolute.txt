@@ -1,0 +1,16 @@
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/Dominoes.deps.json
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/Dominoes.runtimeconfig.json
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/Dominoes.runtimeconfig.dev.json
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/Dominoes.dll
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/bin/Debug/netcoreapp2.0/Dominoes.pdb
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.csproj.AssemblyReference.cache
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.AssemblyInfoInputs.cache
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.AssemblyInfo.cs
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.csproj.CoreCompileInputs.cache
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.dll
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.pdb
+/Users/harol/Downloads/My-Exercism-Solutions-master/csharp/dominoes/obj/Debug/netcoreapp2.0/Dominoes.genruntimeconfig.cache
